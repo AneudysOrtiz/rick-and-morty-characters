@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    background: gray;
+    color: white;
+    border-radius: 10px;
+    width: 400px;
+    margin: 1rem;
+    overflow: hidden;
+}
+
+.info-container {
+
+}
+
+.info-container .name {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+img{
+    max-width: 160px;
+}
